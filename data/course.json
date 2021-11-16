@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Health and Medicine",
+      "Pathology and Pathophysiology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6d211257-15fb-00a7-ce43-2f9cd13136f7",
+      "b87ea875-7813-c9c5-2bde-696274ae875f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Neurology, Neuropsychology, and Neurobiology of Aging",
+  "course_description": "Lectures and discussions in this course cover the clinical, behavioral, and molecular aspects of the brain aging processes in humans. Topics include the loss of memory and other cognitive abilities in normal aging, as well as neurodegenerative conditions such as Parkinson's and Alzheimer's diseases. Discussions based on readings taken from primary literature explore the current research in this field.\n",
+  "department_numbers": [
+    "9",
+    "7"
+  ],
+  "extra_course_numbers": "7.92J",
+  "primary_course_number": "9.110J",
+  "learning_resource_types": [
+    "Presentation Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
